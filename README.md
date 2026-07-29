@@ -1,3 +1,2 @@
-# student-information-system
+Ako si Tao A ang nagbago nito.
 BSIT Group Project Repository
-This is the Front-end documentation.
